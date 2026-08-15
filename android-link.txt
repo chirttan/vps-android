@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://yellow-difficulty-gates-performs.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://roster-chef-discusses-aka.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-14 20:34:29 UTC
+Created   : 2026-08-15 00:53:58 UTC
 =======================================================
