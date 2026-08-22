@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://frequency-wagner-explicitly-receiving.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://renewable-webpage-gods-latina.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-22 10:25:58 UTC
+Created   : 2026-08-22 15:23:49 UTC
 =======================================================
