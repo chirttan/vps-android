@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hint-sensitivity-dense-river.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://induced-pace-else-articles.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-14 19:53:25 UTC
+Created   : 2026-09-14 23:03:25 UTC
 =======================================================
