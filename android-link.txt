@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wearing-woods-associated-recently.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://filme-cinema-capable-virtually.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-18 09:29:44 UTC
+Created   : 2026-09-18 14:10:51 UTC
 =======================================================
