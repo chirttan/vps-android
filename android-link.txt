@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://expected-shipment-newport-suggests.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://provinces-broken-drum-interviews.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-20 09:55:28 UTC
+Created   : 2026-10-20 14:47:38 UTC
 =======================================================
